@@ -7,3 +7,7 @@ If your dumped ROM is the wrong version, you can use these patches to convert it
 2. Extract the patch that matches the version of your ROM.
 3. Use [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or your preferred ROM patcher to apply the patch to your ROM.
 4. You should now have an NTSC-U ROM that can be used with 2s2h.
+
+## DISCLAIMER
+In the US, this might be legally grey or technically illegal. Make sure you check the DMCA laws if you live in the US.
+Also, this is not affiliated with Nintendo or Harbour Masters.
